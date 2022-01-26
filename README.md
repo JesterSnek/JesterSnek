@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josip Vištica</h1>
-<h3 align="center">A ambitious backend developer from Croatia</h3>
+<h3 align="center">An ambitious backend developer from Croatia</h3>
 
 - 🔭 I’m currently working on [OPG](https://github.com/JesterSnek/OPG)
 
